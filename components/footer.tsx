@@ -141,6 +141,7 @@ export function Footer() {
               <MapPin className="h-4 w-4 text-primary mt-0.5 flex-shrink-0" />
               <span className="text-sm text-muted-foreground">United Arab Emirates</span>
             </li>
+
             <li className="flex items-start gap-3">
               <Mail className="h-4 w-4 text-primary mt-0.5 flex-shrink-0" />
               <a
@@ -150,22 +151,26 @@ export function Footer() {
                 project@datestech.com
               </a>
             </li>
+
             <li className="flex items-start gap-3">
               <Phone className="h-4 w-4 text-primary mt-0.5 flex-shrink-0" />
               <a
-                href="tel:+971 04 45998047"
+                href="tel:+9710445998047"
                 className="text-sm text-muted-foreground hover:text-primary transition-colors"
               >
                 +971 04 4599804
               </a>
             </li>
-            ß<li className="flex items-start gap-3">
+
+            <li className="flex items-start gap-3">
               <Phone className="h-4 w-4 text-primary mt-0.5 flex-shrink-0" />
               <a
-                href="tel:+971 58 691 2712"
+                href="https://wa.me/971586912712"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-sm text-muted-foreground hover:text-primary transition-colors"
               >
-                +971 58 691 2712
+                +971 58 691 2712 (WhatsApp)
               </a>
             </li>
           </ul>
