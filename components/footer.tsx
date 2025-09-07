@@ -159,6 +159,15 @@ export function Footer() {
                 +971 04 4599804
               </a>
             </li>
+            ß<li className="flex items-start gap-3">
+              <Phone className="h-4 w-4 text-primary mt-0.5 flex-shrink-0" />
+              <a
+                href="tel:+971 58 691 2712"
+                className="text-sm text-muted-foreground hover:text-primary transition-colors"
+              >
+                +971 58 691 2712
+              </a>
+            </li>
           </ul>
 
           {/* Quick Links */}
