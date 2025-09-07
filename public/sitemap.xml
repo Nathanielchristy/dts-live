@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://datestech.com/</loc>
+    <lastmod>2025-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://datestech.com/images/gallery/taste-experience-event.jpg</image:loc>
+      <image:title>THE TASTE Experience Event Setup</image:title>
+      <image:caption>Custom event setup with branding and wooden displays</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://datestech.com/images/gallery/aci-exhibition-stand.jpg</image:loc>
+      <image:title>ACI Worldwide Exhibition Stand</image:title>
+      <image:caption>Professional exhibition stand with LED lighting</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://datestech.com/images/gallery/dubai-exterior-cladding.jpg</image:loc>
+      <image:title>Dubai Advertisement Hoarding</image:title>
+      <image:caption>Large-scale outdoor advertising hoarding in Dubai</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Services Pages (if you add individual service pages) -->
+  <url>
+    <loc>https://datestech.com/#services</loc>
+    <lastmod>2025-01-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+
+  <!-- Gallery Page -->
+  <url>
+    <loc>https://datestech.com/#gallery</loc>
+    <lastmod>2025-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://datestech.com/#about</loc>
+    <lastmod>2025-01-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://datestech.com/#contact</loc>
+    <lastmod>2025-01-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
